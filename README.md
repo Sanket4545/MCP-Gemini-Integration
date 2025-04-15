@@ -32,9 +32,9 @@ This project demonstrates a powerful integration between a **Model Context Proto
 ## 🗄️ Database Requirements
 
 Ensure you have a PostgreSQL database running locally with:
-- Database name: `hr_DB`
+- Database name: `Your_DB_Name`
 - User: `postgres`
-- Password: `Dreams@2024`
+- Password: `Your_Password`
 - Port: `5432`
 
 Set up the following environment variable in a `.env` file:
